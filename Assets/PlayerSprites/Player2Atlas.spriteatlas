@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player2Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 4055064100611404868, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: -2876976689233817617, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: -6805900400937425348, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: -7375686433322734936, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: 7627378503795251948, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: 713301007295788432, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: -8301311214898126924, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: 6735276193697800158, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: -1276481017320401452, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: -6151544988126828557, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: 5102968302604347184, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: 414463298210579855, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: 3919402341522279793, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: 5492750012684167696, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: -6217698179165531411, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: 6803359919101370642, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: 6903474539465186823, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: 6254042239242785738, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  - {fileID: -6612213674271827065, guid: 5e879fbe66f2f1b45aea84cbbf6cb420, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Total_Sprite_Sheet_8
+  - Total_Sprite_Sheet_9
+  - Total_Sprite_Sheet_4
+  - Total_Sprite_Sheet_5
+  - Total_Sprite_Sheet_6
+  - Total_Sprite_Sheet_7
+  - Total_Sprite_Sheet_0
+  - Total_Sprite_Sheet_1
+  - Total_Sprite_Sheet_2
+  - Total_Sprite_Sheet_3
+  - Total_Sprite_Sheet_17
+  - Total_Sprite_Sheet_16
+  - Total_Sprite_Sheet_15
+  - Total_Sprite_Sheet_14
+  - Total_Sprite_Sheet_13
+  - Total_Sprite_Sheet_12
+  - Total_Sprite_Sheet_11
+  - Total_Sprite_Sheet_10
+  - Total_Sprite_Sheet_18
+  m_RenderDataMap: {}
+  m_Tag: Player2Atlas
+  m_IsVariant: 0

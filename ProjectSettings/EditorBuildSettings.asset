@@ -6,6 +6,42 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ProtoScene1.unity
+    path: Assets/Scenes/TitleScreen.unity
+    guid: dc253010bf8f3d741aa6057b3a7dd8f6
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 845707ed3f9d4fd45a9c6be1393e616b
+  - enabled: 1
+    path: Assets/Scenes/PlayerSetup.unity
+    guid: 3d7d79e6f62cd7a428d972d32c65745b
+  - enabled: 1
+    path: Assets/Scenes/RoundsMenu.unity
+    guid: ffad04e29dd83d04f8405c5a5c291e3e
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 83ea0d80294a74947807bc67eb718a85
+  - enabled: 1
+    path: Assets/Scenes/Grasslands.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Caverns.unity
+    guid: 19ee9f88b2ee5704288e425e23e0f48e
+  - enabled: 1
+    path: Assets/Scenes/Tundra.unity
+    guid: 8143a95fd30a5764bb01b68ec04388f3
+  - enabled: 1
+    path: Assets/Scenes/Pink.unity
+    guid: 81e19004c63272d4790db1bf7a665761
+  - enabled: 1
+    path: Assets/Scenes/MatchResults.unity
+    guid: 9285e16fdf2406148b7f080e93907859
+  - enabled: 1
+    path: Assets/Scenes/SuddenDeath.unity
+    guid: c88b750c92fe47447bf02d75196b6609
+  - enabled: 1
+    path: Assets/Scenes/ControllerButtons.unity
+    guid: 40068e8eaee90a544b2f0278667e2a86
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 59f853182dbb3144db6cbf349b782c35
   m_configObjects: {}

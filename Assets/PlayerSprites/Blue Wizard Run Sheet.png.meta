@@ -29,7 +29,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -118,7 +118,7 @@ TextureImporter:
         x: 0
         y: 0
         width: 32
-        height: 64
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,7 +139,7 @@ TextureImporter:
         x: 32
         y: 0
         width: 32
-        height: 64
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,7 +160,7 @@ TextureImporter:
         x: 64
         y: 0
         width: 32
-        height: 64
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
